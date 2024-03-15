@@ -2,8 +2,8 @@
 
 namespace App\Plans;
 
+use App\Entities\Server;
 use App\Interfaces\PlanInterface;
-use App\Server;
 
 class ProPlan implements PlanInterface
 {

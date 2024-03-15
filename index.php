@@ -2,8 +2,8 @@
 
 require_once __DIR__ . '/vendor/autoload.php';
 
-use App\User;
-use App\Server;
+use App\Entities\Server;
+use App\Entities\User;
 use App\Plans\BasicPlan;
 use App\Plans\ProPlan;
 

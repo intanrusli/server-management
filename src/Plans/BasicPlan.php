@@ -2,7 +2,7 @@
 
 namespace App\Plans;
 
-use App\Server;
+use App\Entities\Server;
 use App\Interfaces\PlanInterface;
 
 class BasicPlan implements PlanInterface
